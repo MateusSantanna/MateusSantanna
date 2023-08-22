@@ -9,7 +9,7 @@ Olá, meu nome é Mateus Santanna, e sou Desenvolvedor Web FullStack, formado pe
   <a href="https://github.com/mateussantanna" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" alt="GitHub" />
   </a> 
-  <a href="https://www.codewars.com/users/mateussantanna" target="_blank" rel="noopener noreferrer">
+  <a href="[https://www.codewars.com/users/mateussantanna](https://www.codewars.com/users/Mateus_Santanna)" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars" />
   </a>
   <a href="https://www.linkedin.com/in/mateussantanna/" target="_blank" rel="noopener noreferrer">
