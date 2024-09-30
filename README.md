@@ -47,6 +47,6 @@ Fique à vontade para explorar meus repositórios e projetos. Estou sempre abert
 Vamos construir algo incrível juntos!
 
 #### Contato:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateussantanna/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mateussantanna2001@outlook.com)
-[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Mateus_Santanna)
+<a target= "_blank">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateussantanna/) </a>
+<a target= "_blank">[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mateussantanna2001@outlook.com)</a>
+<a target= "_blank">[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Mateus_Santanna)</a>
